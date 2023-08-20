@@ -1,0 +1,1 @@
+docker run -itd -v /Users/zhengyi/Projects/docker_ubuntu_18.04/share:/host -p 2222:22 my_container:1.0 /bin/bash
